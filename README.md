@@ -6,7 +6,7 @@ In an era where the fashion industry is increasingly scrutinized for its environ
 The study specifically analyzes how sustainability consciousness influences purchasing decisions, such as the preference for fast fashion brands versus second-hand clothing, the frequency of shopping, and post-consumer behaviors like garment disposal and recycling. By examining these factors, the research aims to shed light on whether higher environmental awareness translates into actionable sustainable shopping habits among young adults.
 
 ## Data & Methodology
-* **Sample:** 303 METU students (collected via random sampling method).
+* **Sample:** 303 METU students (collected via random sampling method and face to face).
 * **Data Collection:** Online and face-to-face surveys consisting of 14 questions (demographics + shopping habits).
 * **Analysis Tools:** R 
 ### Key Statistical Methods Used:
