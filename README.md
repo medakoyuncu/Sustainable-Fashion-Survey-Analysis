@@ -1,6 +1,6 @@
 # Clothing Consumption Behaviours and Their Effects on Sustainability
 
-## 📌Project Overview
+## Project Overview
 In an era where the fashion industry is increasingly scrutinized for its environmental impact—ranging from waste generation to resource depletion—sustainable consumption has become a critical topic. This project investigates the clothing shopping habits of university students at Middle East Technical University (METU) to understand the intersection of youth consumption and sustainability awareness.
 
 The study specifically analyzes how sustainability consciousness influences purchasing decisions, such as the preference for fast fashion brands versus second-hand clothing, the frequency of shopping, and post-consumer behaviors like garment disposal and recycling. By examining these factors, the research aims to shed light on whether higher environmental awareness translates into actionable sustainable shopping habits among young adults.
